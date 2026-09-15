@@ -1,4 +1,3 @@
-
 <a href="https://velog.io/@wontellij" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 ### 🛠 Tech Stack
@@ -9,13 +8,13 @@
 
 ### 🚀 Experience
 
-- **NEXFRON** — SW 개발 인턴  `2026.08 ~ Present `
+- **AICC SW 개발 인턴** `2026.08 ~ Present`
 
 ### 🙋 Activities
 
 - **COTATO** 14기 BE `2026.09 ~ 2027.02`
-- **COTATO** 13기 BE `2026.03 ~ 2026.08`
-- **COTATO** 12기 PM `2025.09 ~ 2026.02`
+- **COTATO** 13기 BE `2026.03 ~ 2026.08` — [13th-backend-workbook](https://github.com/WontelliJ/13th-backend-workbook), [13th-BE-Networking-1](https://github.com/WontelliJ/13th-BE-Networking-1)
+- **COTATO** 12기 PM `2025.09 ~ 2026.02` — 관련 리포: [IT-Cotato/12th-FinSight-BE](https://github.com/IT-Cotato/12th-FinSight-BE)
 - **COTATO** 12기 기획 스터디 `2025.09 ~ 2026.02`
 - **COTATO** 12기 교육팀 `2025.09 ~ 2026.02`
 
@@ -23,23 +22,10 @@
 
 **마음부적** (COTATO 13기 BE)
 - Period: `2026.03 ~ 2026.08`
-- Role: Backend
-- Stack: `Java` `MySQL` `OpenAI API` `AWS`
--
-- **FinSight** (COTATO 12기 PM)
-- Period: `2025.09 ~ 2026.02`
-- Role: Backend
+- Role: Backend 구현, Grafana/Prometheus 관측 환경 구축 및 보고서 작성
 - Stack: `Java` `MySQL` `OpenAI API` `AWS`
 
 ### 🏆 Awards
 
 - 🥇 COTATO 12기 프로젝트 최우수상 (PM)
-- 🥇 COTATO 12기 코커톤 최우수상 (PM)
-
-### 📊 GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WontelliJ&theme=github_dark" width="49%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WontelliJ&theme=github_dark" width="30%"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=WontelliJ&show_icons=true&theme=radical&hide_border=true" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WontelliJ&layout=compact&theme=radical&hide_border=true" width="30%"/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=WontelliJ&theme=radical&hide_border=true)
+- 🥇 COTATO 12기 해커톤 최우수상 (PM)
