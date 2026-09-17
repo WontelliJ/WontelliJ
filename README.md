@@ -15,10 +15,12 @@
 
 - **COTATO** 14기 BE `2026.09 ~ 2027.02`
 - **COTATO** 13기 BE `2026.03 ~ 2026.08` — [IT-Cotato/13th-Maeum-Bujeok-BE](https://github.com/IT-Cotato/13th-Maeum-Bujeok-BE), [13th-backend-workbook](https://github.com/WontelliJ/13th-backend-workbook), [13th-BE-Networking-1](https://github.com/WontelliJ/13th-BE-Networking-1)
+- **COKERTHON** 8회 BE `2026.07` - [디:적(積)](https://github.com/8th-COKERTHON/server-team1)
+- 
 - **COTATO** 12기 PM `2025.09 ~ 2026.02` — [IT-Cotato/12th-FinSight-BE](https://github.com/IT-Cotato/12th-FinSight-BE)
 - **COTATO** 12기 기획 스터디 `2025.09 ~ 2026.02`
 - **COTATO** 12기 교육팀 `2025.09 ~ 2026.02` - [IT-Cotato/12th-Education](https://github.com/IT-Cotato/12th-Education)
-- **COKERTHON** 7회 PM 2026.01 — [Porest](https://github.com/7th-COKERTHON/Team3-Backend)
+- **COKERTHON** 7회 PM `2026.01` — [Porest](https://github.com/7th-COKERTHON/Team3-Backend)
 
 ### 💻 Projects
 
