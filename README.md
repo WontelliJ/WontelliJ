@@ -14,7 +14,7 @@
 
 - **COTATO** 14기 BE `2026.09 ~ 2027.02`
 - **COTATO** 13기 BE `2026.03 ~ 2026.08` — [13th-backend-workbook](https://github.com/WontelliJ/13th-backend-workbook), [13th-BE-Networking-1](https://github.com/WontelliJ/13th-BE-Networking-1)
-- **COTATO** 12기 PM `2025.09 ~ 2026.02` — 관련 리포: [IT-Cotato/12th-FinSight-BE](https://github.com/IT-Cotato/12th-FinSight-BE)
+- **COTATO** 12기 PM `2025.09 ~ 2026.02` — [IT-Cotato/12th-FinSight-BE](https://github.com/IT-Cotato/12th-FinSight-BE)
 - **COTATO** 12기 기획 스터디 `2025.09 ~ 2026.02`
 - **COTATO** 12기 교육팀 `2025.09 ~ 2026.02`
 
