@@ -2,9 +2,10 @@
 
 ### 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+
 
 ### 🚀 Experience
 
@@ -16,14 +17,15 @@
 - **COTATO** 13기 BE `2026.03 ~ 2026.08` — [IT-Cotato/13th-Maeum-Bujeok-BE](https://github.com/IT-Cotato/13th-Maeum-Bujeok-BE), [13th-backend-workbook](https://github.com/WontelliJ/13th-backend-workbook), [13th-BE-Networking-1](https://github.com/WontelliJ/13th-BE-Networking-1)
 - **COTATO** 12기 PM `2025.09 ~ 2026.02` — [IT-Cotato/12th-FinSight-BE](https://github.com/IT-Cotato/12th-FinSight-BE)
 - **COTATO** 12기 기획 스터디 `2025.09 ~ 2026.02`
-- **COTATO** 12기 교육팀 `2025.09 ~ 2026.02`[IT-Cotato/12th-Education](https://github.com/IT-Cotato/12th-Education)
-- **COKERTHON** 7회 PM 2026.01 — 관련 리포: [Porest](https://github.com/7th-COKERTHON/Team3-Backend)
+- **COTATO** 12기 교육팀 `2025.09 ~ 2026.02` - [IT-Cotato/12th-Education](https://github.com/IT-Cotato/12th-Education)
+- **COKERTHON** 7회 PM 2026.01 — [Porest](https://github.com/7th-COKERTHON/Team3-Backend)
 
 ### 💻 Projects
 
 사주 기반 AI 감정 케어 상담 서비스 **마음부적** BE
 - Period: `2026.03 ~ 2026.08`
-- Role: 홈 요약 · 다음주 제안 생성 기능, Grafana/Prometheus 관측 환경 구축 및 보고서 작성
+- 회원가입, 홈 요약, 다음 주 흐름 생성 구현
+- Grafana/Prometheus 관측 환경 구축 및 보고서 작성
 - Stack: `Java` `MySQL` `OpenAI API` `AWS`
 
 읽고, 풀고, 쌓아가는 금융 습관, **FinSight** PM
