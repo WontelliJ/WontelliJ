@@ -38,8 +38,8 @@
 
 ### 🏆 Awards
 
-- 🥇 COTATO 12기 프로젝트 최우수상 (PM) - FinSight
-- 🥇 COTATO 12기 해커톤 최우수상 (PM) — Porest
+- 🥇 COTATO 12기 프로젝트 최우수상 (PM) — FinSight
+- 🥇 COTATO 12기 해커톤 최우수상 (PM)   — Porest
 
 ### 📜 Certifications
 - ADSP, 한국데이터산업진흥원
