@@ -29,3 +29,7 @@
 
 - 🥇 COTATO 12기 프로젝트 FinSight 최우수상 (PM)
 - 🥇 COTATO 12기 해커톤 Porest 최우수상 (PM)
+
+### 📜 Certifications
+- ADSP, 한국데이터산업진흥원
+- SQLD, 한국데이터산업진흥원
