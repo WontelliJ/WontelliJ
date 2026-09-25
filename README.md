@@ -20,7 +20,7 @@
 
 - **COTATO** 12기 PM `2025.09 ~ 2026.02` 
 - **COTATO** 12기 기획 스터디 `2025.09 ~ 2026.02`
-- **COTATO** 12기 교육팀 `2025.09 ~ 2026.02` - [IT-Cotato/12th-Education](https://github.com/IT-Cotato/12th-Education)
+- **COTATO** 12기 CS 교육팀 `2025.09 ~ 2026.02` - [IT-Cotato/12th-Education](https://github.com/IT-Cotato/12th-Education)
 - **COKERTHON** 7회 PM `2026.01` — [감정 기록에 따라 변하는 이모지로 하루를 돌아보는 서비스 Porest](https://github.com/7th-COKERTHON/Team3-Backend)
 
 ### 💻 Projects
